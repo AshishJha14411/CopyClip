@@ -5,7 +5,7 @@ This is a program made to copy thing to clipboard.
 
 30 mins approximately
 
-[Live Demo](https://caseconverter-akj.netlify.app/)
+[Live Demo](https://copyclip-akj.netlify.app/)
 
 ### SnapShot of the program
 
