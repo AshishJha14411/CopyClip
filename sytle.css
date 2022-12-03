@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.main{
+    text-align: center;
+    padding: 2rem 10rem;
+    background-color: rgb(108, 138, 143);
+}
+textarea{
+    background-color: rgb(186, 176, 176);
+}
+
+button{
+    margin-top: 4rem;
+    width: 12rem;
+    height: 3rem;
+    cursor: pointer;
+}
